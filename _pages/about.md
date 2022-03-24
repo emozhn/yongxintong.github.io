@@ -13,7 +13,7 @@ redirect_from:
 	
 Yongxin Tong 童咏昕
 ======
-Professor
+Professor<br/>
 [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/)<br/>
 [School of Computer Science and Engineering](http://scse.buaa.edu.cn/)<br/>
 [Beihang University (BUAA)](http://ev.buaa.edu.cn/)<br/>
