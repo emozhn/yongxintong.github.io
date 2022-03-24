@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongxin Tong"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Yongxin Tong"
 description              : &description "a Professor of Computer Science and Engineering"
