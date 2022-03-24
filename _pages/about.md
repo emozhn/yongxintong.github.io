@@ -131,7 +131,6 @@ Professional Services
                 <li>DASFAA: 2022, 2021, 2020 (Senior PC), 2019, 2018, 2017, 2015</li>
              </ul>
         </li><br>
-
         <li><b>Reviewer for Journals: </b>
 	    <ul>
                 <li>VLDB Journal (VLDBJ)</li>
@@ -145,7 +144,7 @@ Professional Services
                 <li>Journal of Computer Science and Technology (JCST)</li>
                 <li>Science China Information Sciences (SCIS)</li>
 	     </ul>
-        </li>
+        </li><br>
 		
 </ul>
 
