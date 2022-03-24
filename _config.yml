@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Yongxin Tong"
-  avatar           : "yongxin.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "yongxin.png"
+  bio              : 
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
