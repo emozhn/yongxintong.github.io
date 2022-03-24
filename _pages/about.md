@@ -14,8 +14,8 @@ Professor<br/>
 [School of Computer Science and Engineering](http://scse.buaa.edu.cn/)<br/>
 [Beihang University (BUAA)](http://ev.buaa.edu.cn/)<br/>
 <br/>
-Office: Room 1811, Baiyan Building<br/>
-E-mail: yxtong@buaa.edu.cn  or  yongxintong@gmail.com<br/>
+<b>Office:</b> Room 1811, Baiyan Building<br/>
+<b>E-mail:</b> yxtong@buaa.edu.cn  or  yongxintong@gmail.com<br/>
 
 
 Short Biography
