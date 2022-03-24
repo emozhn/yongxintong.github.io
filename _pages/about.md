@@ -14,12 +14,12 @@ redirect_from:
 Yongxin Tong 童咏昕
 ======
 Professor
-[State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/)
-[School of Computer Science and Engineering](http://scse.buaa.edu.cn/)
-[Beihang University (BUAA)](http://ev.buaa.edu.cn/)
-
-Office: Room 1811, Baiyan Building
-E-mail: yxtong@buaa.edu.cn  or  yongxintong@gmail.com
+[State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/)<br/>
+[School of Computer Science and Engineering](http://scse.buaa.edu.cn/)<br/>
+[Beihang University (BUAA)](http://ev.buaa.edu.cn/)<br/>
+<br/>
+Office: Room 1811, Baiyan Building<br/>
+E-mail: yxtong@buaa.edu.cn  or  yongxintong@gmail.com<br/>
 
 
 Short Biography
