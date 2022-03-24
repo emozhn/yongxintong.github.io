@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "A professor in SKLSDE of School of Computer Science and Engineering at BUAA"
   location         : "Beijing, China"
-  website          : "https://hufudb.com"
+  hufudb          : "https://hufudb.com"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=aeCHfDIAAAAJ"
-  dblp             : "https://dblp.org/pid/83/2548.html"
+  googlescholar    : 
+  dblp             : 
   email            : "yxtong@buaa.edu.cn"
   office           : "Room 1811, Baiyan Building"
   researchgate     : 
