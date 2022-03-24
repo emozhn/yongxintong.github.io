@@ -21,7 +21,6 @@ E-mail: yxtong@buaa.edu.cn  or  yongxintong@gmail.com<br/>
 Short Biography
 Yongxin Tong is a Professor in the [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/) (SKLSDE) of the [School of Computer Science and Engineering] at [Beihang University (BUAA)]（http://ev.buaa.edu.cn/）. He received a Ph.D. degree in Computing Science and Engineering from the [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/), under [Prof. Lei Chen](http://www.cse.ust.hk/~leichen/)'s supervision. He also received a Master degree in Software Engineering at [Beihang University](http://ev.buaa.edu.cn/) and a Double Bachelor degree in Economics from [China Centre for Economic Research (CCER)](https://www.ccer.pku.edu.cn/) at [Peking University](http://english.pku.edu.cn/).
 
-
 Research Interests
 ------
 <ul>
@@ -73,7 +72,8 @@ Recent Selected Publications
      </li>
      <li><b>Yongxin Tong</b>, Jieying She, Bolin Ding, Libin Wang, Lei Chen.  &quot;<a href="https://hufudb.com/homepage/online_icde16.pdf" target="_blank" style="text-decoration:none;">Online Mobile Micro-Task Allocation in Spatial Crowdsourcing</a>&quot;, in <I>Proceedings of the 32nd International Conference on Data Engineering</I> (<b>ICDE 2016</b>), Helsinki, Finland, May 16-20, 2016.  [<a href="https://hufudb.com/homepage/icde16_slides.pptx" target="_blank" style="text-decoration:none;">Slides</a>] [<a href="https://hufudb.com/homepage/icde16_poster.pdf" target="_blank" style="text-decoration:none;">Poster</a>] [<a href="https://github.com/BUAA-BDA/SpatialCrowdsourcing-GOMA" target="_blank" style="text-decoration:none;">Code and Data</a>]
      </li>
- </ul>
+</ul>
+
 Recent Awards & Honors
 ------
 <ul>
@@ -87,4 +87,12 @@ Recent Awards & Honors
         <li><b>Excellent Master Dissertation Award</b>, Beihang University, 2010.</li>
         <li><b>Tencent Technology Excellence Scholarship</b>, Beihang University, 2009. </li>
         <li><b><a href="http://sites.nlsde.buaa.edu.cn/~yxtong/NDBC2009.pdf" target="_blank" style="text-decoration:none;">Sa Shixuan Best Student Paper Award</a></b>, NDBC Conference, 2009. </li>
+</ul>
+
+Teaching Experiences
+------
+<ul>
+        <li><a href="https://www.icourse163.org/course/BUAA-1449777166" target="_blank">Design and Analysis of Algorithms</a> (Undergraduate Level and MOOC Course), Fall 2019/Spring 2018/Spring 2017/Spring 2016, Beihang University.</li>
+        <li><a href="" target="_blank">Introduction to Data Mining</a> (Graduate Level), Spring 2018/Spring 2017/Spring 2016, Beihang University.</li>
+        <li><a href="https://hufudb.com/homepage/schedule_bigdata_2016.html" target="_blank">Frontiers of Big Data Processing Techniques</a> (Graduate Level, with <a href="http://mashuai.buaa.edu.cn/index.html" target="_blank">Prof. Shuai Ma</a>), Fall 2018/Fall 2017/Fall 2016, Beihang University.</li>
 </ul>
