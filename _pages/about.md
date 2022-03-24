@@ -159,6 +159,6 @@ Miscellaneous
     </li>
 </ul>
 ------
-<p>
+<div align=center>
 <a href="http://www.clustrmaps.com/map/cse.ust.hk/~yxtong/" title="Visitor Map for cse.ust.hk/~yxtong/"><img src="//www.clustrmaps.com/map_v2.png?u=4ffe&d=ZJN1nhREsc0xu0g_TNTzsuyjiujp1WqB6cYOy6Fb7Z4" align="middle" /></a>
-</p>
+</div>
