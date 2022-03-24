@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
-excerpt: "About Me"
+title: "Welcome to my homepage!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-------------------------------------
 Yongxin Tong 童咏昕
 ======
 Professor<br/>
