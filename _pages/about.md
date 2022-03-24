@@ -7,20 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Yongxin Tong 童咏昕
 ======
-Professor<br/>
-[State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/)<br/>
-[School of Computer Science and Engineering](http://scse.buaa.edu.cn/)<br/>
-[Beihang University (BUAA)](http://ev.buaa.edu.cn/)<br/>
-<br/>
-<b>Office:</b> Room 1811, Baiyan Building<br/>
-<b>E-mail:</b> yxtong@buaa.edu.cn  or  yongxintong@gmail.com<br/>
-
 
 Short Biography
-Yongxin Tong is a Professor in the [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/) (SKLSDE) of the [School of Computer Science and Engineering] at [Beihang University (BUAA)]（http://ev.buaa.edu.cn/）. He received a Ph.D. degree in Computing Science and Engineering from the [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/), under [Prof. Lei Chen](http://www.cse.ust.hk/~leichen/)'s supervision. He also received a Master degree in Software Engineering at [Beihang University](http://ev.buaa.edu.cn/) and a Double Bachelor degree in Economics from [China Centre for Economic Research (CCER)](https://www.ccer.pku.edu.cn/) at [Peking University](http://english.pku.edu.cn/).
-
+------
+Yongxin Tong is a Professor in the [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/) (SKLSDE) of the [School of Computer Science and Engineering] at [Beihang University (BUAA)]（http://ev.buaa.edu.cn/）. He received a Ph.D. degree in Computing Science and Engineering from the [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/), under [Prof. Lei Chen](http://www.cse.ust.hk/~leichen/)'s supervision. He also received a Master degree in Software Engineering at [Beihang University](http://ev.buaa.edu.cn/) and a Double Bachelor degree in Economics from [China Centre for Economic Research (CCER)](https://www.ccer.pku.edu.cn/) at [Peking University](http://english.pku.edu.cn/).<br/>
+<b>Office:</b> Room 1811, Baiyan Building<br/>
+<b>E-mail:</b> yxtong@buaa.edu.cn  or  yongxintong@gmail.com<br/>
 Research Interests
 ------
 <ul>
