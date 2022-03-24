@@ -133,7 +133,7 @@ Professional Services
         </li><br>
 
         <li><b>Reviewer for Journals: </b>
-
+	    <ul>
                 <li>VLDB Journal (VLDBJ)</li>
                 <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
                 <li>ACM Transactions on Knowledge Discovery from Data (TKDD)</li>
@@ -144,6 +144,7 @@ Professional Services
                 <li>Knowledge-Based Systems (KBS)</li>
                 <li>Journal of Computer Science and Technology (JCST)</li>
                 <li>Science China Information Sciences (SCIS)</li>
+	     </ul>
         </li>
 		
 </ul>
@@ -151,7 +152,6 @@ Professional Services
 Miscellaneous
 ------
 <ul>
-    <!--li><b>Selected Readings</b></li-->
     <li><b>Useful Resources:</b>
         <a href="http://www.ust.hk/provost/calendar_dates/dates13-14confirmed.pdf">Academic Calendar</a> |
     	  <a href="http://www.rtreeportal.org/">R-Tree Portal</a> |
