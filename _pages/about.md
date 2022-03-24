@@ -11,12 +11,18 @@ E-mail: yxtong@buaa.edu.cn  or  yongxintong@gmail.com<br/>
 
 
 Short Biography
-Yongxin Tong is a Professor in the State Key Laboratory of Software Development Environment (SKLSDE) of the School of Computer Science and Engineering at Beihang University (BUAA). He received a Ph.D. degree in Computing Science and Engineering from the Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST), under Prof. Lei Chen's supervision. He also received a Master degree in Software Engineering at Beihang University and a Double Bachelor degree in Economics from China Centre for Economic Research (CCER) at Peking University.
+Yongxin Tong is a Professor in the [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/) (SKLSDE) of the [School of Computer Science and Engineering] at [Beihang University (BUAA)]（http://ev.buaa.edu.cn/）. He received a Ph.D. degree in Computing Science and Engineering from the [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/), under [Prof. Lei Chen](http://www.cse.ust.hk/~leichen/)'s supervision. He also received a Master degree in Software Engineering at [Beihang University](http://ev.buaa.edu.cn/) and a Double Bachelor degree in Economics from [China Centre for Economic Research (CCER)](https://www.ccer.pku.edu.cn/) at [Peking University](http://english.pku.edu.cn/).
 
 
-Site-wide configuration
+Research Interests
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<ul>
+            <li>Spatiotemporal Big Data Analysis</li>
+            <li>Federated Learning and Data Federation</li>
+            <li>Crowdsourcing</li>
+            <li>Privacy-preserving Data Analysis</li>
+</ul>
+
 
 Create content & metadata
 ------
