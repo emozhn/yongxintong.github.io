@@ -35,7 +35,7 @@ Research Interests
 Our Recent Tutorials and Surveys
 ------
  <ul>
-	     <li><b>Yongxin Tong</b>, Zimu Zhou, Yuxiang Zeng, Lei Chen, Cyrus Shahabi. &quot;<a href="https://link.springer.com/article/10.1007/s00778-019-00568-7" target="_blank" style="text-decoration:none;">Spatial Crowdsourcing: A Survey</a>&quot;, <I>The VLDB Journal</I> (<b>VLDBJ</b>), 29(1): 217-250, January 2020. &nbsp&nbsp[<a href="https://hufudb.com/homepage/vldb17_tutorial_slides.pdf" target="_blank" style="text-decoration:none;">VLDB 2017 Tutorial Slides</a>]
+	     <li><b>Yongxin Tong</b>, Zimu Zhou, Yuxiang Zeng, Lei Chen, Cyrus Shahabi. &quot;<a href="https://link.springer.com/article/10.1007/s00778-019-00568-7" target="_blank" style="text-decoration:none;">Spatial Crowdsourcing: A Survey</a>&quot;, <I>The VLDB Journal</I> (<b>VLDBJ</b>), 29(1): 217-250, January 2020. &nbsp&nbsp[VLDB 2017 Tutorial Slides](https://hufudb.com/homepage/vldb17_tutorial_slides.pdf)
             </li><br>
             <li>Qiang Yang, Yang Liu, Tianjian Chen, <b>Yongxin Tong</b>.  &quot;<a href="https://hufudb.com/homepage/tist_fl.pdf" target="_blank" style="text-decoration:none;">Federated Machine Learning: Concept and Applications</a>&quot;, <I>ACM Transactions on Intelligent Systems and Technology</I> (<b>TIST</b>), 10(2): No.12, February 2019.
             </li>
