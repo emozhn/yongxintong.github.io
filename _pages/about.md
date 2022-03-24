@@ -32,9 +32,14 @@ Research Interests
 </ul>
 
 
-Create content & metadata
+Our Recent Tutorials and Surveys
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+ <ul>
+	     <li><b>Yongxin Tong</b>, Zimu Zhou, Yuxiang Zeng, Lei Chen, Cyrus Shahabi. &quot;<a href="https://link.springer.com/article/10.1007/s00778-019-00568-7" target="_blank" style="text-decoration:none;">Spatial Crowdsourcing: A Survey</a>&quot;, <I>The VLDB Journal</I> (<b>VLDBJ</b>), 29(1): 217-250, January 2020. &nbsp&nbsp[<a href="https://hufudb.com/homepage/vldb17_tutorial_slides.pdf" target="_blank" style="text-decoration:none;">VLDB 2017 Tutorial Slides</a>]
+            </li><br>
+            <li>Qiang Yang, Yang Liu, Tianjian Chen, <b>Yongxin Tong</b>.  &quot;<a href="https://hufudb.com/homepage/tist_fl.pdf" target="_blank" style="text-decoration:none;">Federated Machine Learning: Concept and Applications</a>&quot;, <I>ACM Transactions on Intelligent Systems and Technology</I> (<b>TIST</b>), 10(2): No.12, February 2019.
+            </li>
+        </ul>
 
 **Markdown generator**
 
