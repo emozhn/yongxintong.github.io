@@ -11,7 +11,7 @@ redirect_from:
 Yongxin Tong 童咏昕
 ======
 
-Yongxin Tong is a Professor in the [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/) (SKLSDE) of the [School of Computer Science and Engineering] at [Beihang University (BUAA)]（http://ev.buaa.edu.cn/）. He received a Ph.D. degree in Computing Science and Engineering from the [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/), under [Prof. Lei Chen](http://www.cse.ust.hk/~leichen/)'s supervision. He also received a Master degree in Software Engineering at [Beihang University](http://ev.buaa.edu.cn/) and a Double Bachelor degree in Economics from [China Centre for Economic Research (CCER)](https://www.ccer.pku.edu.cn/) at [Peking University](http://english.pku.edu.cn/).
+Yongxin Tong is a Professor in the <a href="http://www.nlsde.buaa.edu.cn/" target="_blank">State Key Laboratory of Software Development Environment</a> (SKLSDE) of the <a href="http://scse.buaa.edu.cn/" target="_blank">School of Computer Science and Engineering</a> at <a href="http://ev.buaa.edu.cn/" target="_blank">Beihang University (BUAA)</a>. He received a Ph.D. degree in Computing Science and Engineering from the <a href="http://www.cse.ust.hk/" target="_blank">Department of Computer Science and Engineering</a>, <a href="http://www.ust.hk/" target="_blank">The Hong Kong University of Science and Technology (HKUST)</a>, under <a href="http://www.cse.ust.hk/~leichen/" target="_blank">Prof. Lei Chen</a>'s supervision.  He also received a Master degree in Software Engineering at <a href="http://ev.buaa.edu.cn/" target="_blank">Beihang University</a> and a Double Bachelor degree in Economics from <a href="https://www.ccer.pku.edu.cn/" target="_blank">China Centre for Economic Research (CCER)</a> at <a href="http://english.pku.edu.cn/" target="_blank">Peking University</a>.
 <br/><br/>
 
 <b>Office:</b> Room 1811, Baiyan Building<br/>
@@ -159,4 +159,12 @@ Miscellaneous
     </li>
 </ul>
 ------
+<table width="100%">
+<tbody>
+	<tr width="100%">
+		<td width="100%">
 <a href="http://www.clustrmaps.com/map/cse.ust.hk/~yxtong/" title="Visitor Map for cse.ust.hk/~yxtong/"><img src="//www.clustrmaps.com/map_v2.png?u=4ffe&d=ZJN1nhREsc0xu0g_TNTzsuyjiujp1WqB6cYOy6Fb7Z4" /></a>
+		</td>
+	</tr>
+</tbody>
+</table
