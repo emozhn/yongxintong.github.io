@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Yongxin Tong"
 description              : &description "personal description"
 url                      : "https://yongxintong.github.io/"
-baseurl                  : "https://hufudb.com/" # the subpath of your site, e.g. "/blog"
-repository               : "https://YongxinTong.github.io/YongxinTong.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "YongxinTong/YongxinTong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
