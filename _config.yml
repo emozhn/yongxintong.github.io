@@ -11,7 +11,7 @@ title                    : "Welcome to my homepage"
 title_separator          : "-"
 name                     : &name "Yongxin Tong"
 description              : &description "a Professor of Computer Science and Engineering"
-url                      : "https://yongxintong.github.io"
+url                      : https://yongxintong.github.io # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YongxinTong/YongxinTong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
