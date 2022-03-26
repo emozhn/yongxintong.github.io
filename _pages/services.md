@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Services"
-permalink: /professional_services/
+permalink: /services/
 author_profile: true
 ---
 
