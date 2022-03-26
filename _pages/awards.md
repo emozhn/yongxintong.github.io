@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Recent Awards & Honors"
-permalink: /awards/
+title: "Teaching Experiences & Professional Services"
+permalink: /teaching_services/
 author_profile: true
 ---
 Recent Awards & Honors
