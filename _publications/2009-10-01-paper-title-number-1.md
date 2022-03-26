@@ -1,3 +1,14 @@
+---
+title: "Recent Selected Publications"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt: ''
+date: 
+venue: ''
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: ''
+---
+
 Recent Selected Publications
 ------
 [<a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tong:Yongxin.html" target="_blank" style="text-decoration:none;"><b>My DBLP Entry</b></a>]&nbsp;[<a href="https://scholar.google.com/citations?user=aeCHfDIAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration:none;"><b>My Google Scholar Page</b></a>]&nbsp;[<a href="http:/hufudb.com/" target="_blank" style="text-decoration:none;"><b>Full Publication List</b></a>]
