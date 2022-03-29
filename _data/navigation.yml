@@ -12,8 +12,8 @@ main:
    - title: "Professional Services"
      url: /services/
         
-   - title: ""
-     url: /year-archive/
+   - title: "Others"
+     url: /Others/
     
    - title: ""
      url: /cv/
