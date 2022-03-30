@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching Experiences"
-permalink: /awards/
+permalink: /tearching_services/
 author_profile: true
 ---
 
