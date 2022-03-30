@@ -4,7 +4,7 @@ title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about_bak/
   - /about.html
 ---
 Yongxin Tong is a Professor in the <a href="http://www.nlsde.buaa.edu.cn/" target="_blank">State Key Laboratory of Software Development Environment</a> (SKLSDE) of the <a href="http://scse.buaa.edu.cn/" target="_blank">School of Computer Science and Engineering</a> at <a href="http://ev.buaa.edu.cn/" target="_blank">Beihang University (BUAA)</a>. He received a Ph.D. degree in Computing Science and Engineering from the <a href="http://www.cse.ust.hk/" target="_blank">Department of Computer Science and Engineering</a>, <a href="http://www.ust.hk/" target="_blank">The Hong Kong University of Science and Technology (HKUST)</a>, under <a href="http://www.cse.ust.hk/~leichen/" target="_blank">Prof. Lei Chen</a>'s supervision.  He also received a Master degree in Software Engineering at <a href="http://ev.buaa.edu.cn/" target="_blank">Beihang University</a> and a Double Bachelor degree in Economics from <a href="https://www.ccer.pku.edu.cn/" target="_blank">China Centre for Economic Research (CCER)</a> at <a href="http://english.pku.edu.cn/" target="_blank">Peking University</a>.
