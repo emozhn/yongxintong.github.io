@@ -11,6 +11,9 @@ main:
     
    - title: "Professional Services"
      url: /services/
+     
+   - title: "Talks"
+     url: /services/
         
    - title: "Others"
      url: /others/
