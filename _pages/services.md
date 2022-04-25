@@ -10,6 +10,7 @@ Professional Services
 <ul>
         <li><b>Journal Associate Editor:</b>
             <ul>
+		 <li>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022-date</li>
                 <li>IEEE Transactions on Big Data (TBD), 2018 - date</li>
                 <li>Frontiers of Computer Science (FCS), 2019 - date</li>
             </ul>
