@@ -19,14 +19,11 @@ Recent Selected Publications
 [<a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tong:Yongxin.html" target="_blank" style="text-decoration:none;"><b>My DBLP Entry</b></a>]&nbsp;[<a href="https://scholar.google.com/citations?user=aeCHfDIAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration:none;"><b>My Google Scholar Page</b></a>]&nbsp;[<a href="http:/hufudb.com/" target="_blank" style="text-decoration:none;"><b>Full Publication List</b></a>]
 <ul>
      <li><img src="https://hufudb.com/homepage/new.gif"/><b>Yongxin Tong</b>, Yuxiang Zeng, Zimu Zhou, Lei Chen, Ke Xu.  &quot;<a href="https://dl.acm.org/doi/full/10.1145/3488723" target="_blank" style="text-decoration:none;">Unified Route Planning for Shared Mobility: An Insertion-based Framework</a>&quot;,<I>ACM Transactions on Database Systems</I> (<b>TODS</b>), 47(1): 1-48, March 2022. [<a href="https://github.com/BUAA-BDA/ridesharing-GreedyDP" target="_blank" style="text-decoration:none;">Code and Data</a>]
-     </li>
-    
+     </li>    
      <li><img src="https://hufudb.com/homepage/new.gif"/>Yuxiang Zeng, <b>Yongxin Tong</b>, Lei Chen. <a href="https://hufudb.com/#" target="_blank" style="text-decoration:none;">Adaptive Task Planning for Large-Scale Robotized Warehouses</a>&quot;, to appear in<I> Proceedings of the 41st ACM SIGMOD International Conference on Management of Data</I> (<b>SIGMOD</b>), June 12-17, 2022.
-     </li>
-	
+     </li>	
      <li><img src="https://hufudb.com/homepage/new.gif"/><b>Yongxin Tong</b>, Xuchen Pan, Yuxiang Zeng, Yexuan Shi, Chunbo Xue, Zimu Zhou, Xiaofei Zhang, Lei Chen, Yi Xu, Ke Xu, Weifeng Lv.  &quot; <a herf="https://hufudb.com/static/paper/2022/PVLDB2022_Hu-Fu-%20Efficient%20and%20Secure%20SpatialQueries%20over%20Data%20Federation.pdf" target="_blank" style="text-decoration:none;"> Hu-Fu: Efficient and Secure Spatial Queries over Data Federation </a> &quot;,<I>Proceedings of the VLDB Endowment</I> (<b>PVLDB</p>), 15(6): 1159 - 1172, 2022.[<a href="https://github.com/BUAA-BDA/Hu-Fu" target="_blank" style="text-decoration:none;">Code and Data</a>]	    
-     </li> 
-	
+     </li> 	
      <li><img src="https://hufudb.com/homepage/new.gif"/><b>Yongxin Tong</b>, Yuxiang Zeng, Bolin Ding, Libin Wang, Lei Chen.  &quot;<a href="https://ieeexplore.ieee.org/abstract/document/8897719" target="_blank" style="text-decoration:none;">Two-Sided Online Micro-Task Assignment in Spatial Crowdsourcing</a>&quot;, <I>IEEE Transactions on Knowledge and Data Engineering</I> (<b>TKDE</b>), 33(5): 2295 - 2309, May 2021. [<a href="https://github.com/BUAA-BDA/SpatialCrowdsourcing-GOMA" target="_blank" style="text-decoration:none;">Code and Data</a>]
      </li>
      <li>Yi Xu, <b>Yongxin Tong</b>, Yexuan Shi, Qian Tao, Ke Xu, Wei Li.  &quot;<a href="https://ieeexplore.ieee.org/abstract/document/9207849" target="_blank" style="text-decoration:none;">An Efficient Insertion Operator in Dynamic Ridesharing Services</a>&quot;, to appear in <I>IEEE Transactions on Knowledge and Data Engineering</I> (<b>TKDE</b>). [<a href="https://hufudb.com/homepage/icde19a_slides.pptx" target="_blank" style="text-decoration:none;">Slides</a>] (<b><font color="#800000">One of the Best Paper Nominations in ICDE 2019</font></b>)
