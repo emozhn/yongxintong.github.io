@@ -5,8 +5,6 @@ permalink: /services/
 author_profile: true
 ---
 
-Professional Services
-------
 <ul>
         <li><b>Journal Associate Editor:</b>
             <ul>
