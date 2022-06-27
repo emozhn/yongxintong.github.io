@@ -41,8 +41,7 @@ Professional Services
                 <li>DASFAA: 2022, 2021, 2020 (Senior PC), 2019, 2018, 2017, 2015</li>
              </ul>
         </li><br>
-       <!-- <li><b>External Reviewer: </b><i>SIGMOD 2015</i>, <i>VLDB 2015</i>, <i>ICDE 2015</i>, <i>SIGMOD 2014</i>, <i>VLDB 2014</i>,  <i>ICDE 2014</i>, <i>ICDE 2013</i>, <i>EDBT 2013</i>, <i>ICDM 2012</i>, <i>PVLDB 2011</i>, <i>ICDM 2011</i>, <i>GIS 2011</i>.
-        </li>-->
+
         <li><b>Reviewer for Journals: </b>
             <ul>
                 <li>VLDB Journal (VLDBJ)</li>
