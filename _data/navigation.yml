@@ -1,7 +1,7 @@
 # main links links
 main:
    - title: "About me"
-     url: https://yongxintong.github.io/
+     url: /About/
      
    - title: "Publications"
      url: /publications/
