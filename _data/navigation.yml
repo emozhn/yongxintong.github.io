@@ -4,16 +4,16 @@ main:
      url: /About/
      
    - title: "Publications"
-     url: /publications/
+     url: /publications/ 
 
-   - title: "Recent Awards & Honors"
-     url: /awards/    
-
-   - title: "Teaching Experiences"
+   - title: "Teaching"
      url: /tearching_services/    
     
    - title: "Professional Services"
      url: /services/
+     
+   - title: "中文版"
+     url: /ChineseVer/
      
    - title: ""
      url: /Talks/
