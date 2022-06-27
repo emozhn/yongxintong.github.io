@@ -7,17 +7,18 @@ author_profile: true
 
 Professional Services
 ------
-<ul>
+    <ul>
         <li><b>Journal Associate Editor:</b>
             <ul>
-		 <li>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022-date</li>
-                <li>IEEE Transactions on Big Data (TBD), 2018 - date</li>
+                <li>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 - date</li>
                 <li>Frontiers of Computer Science (FCS), 2019 - date</li>
+                <li>IEEE Transactions on Big Data (TBD), 2018 - date</li>
+                
             </ul>
         </li><br>
         <li><b>Chair:</b>
             <ul>
-                <li>Sponsorship Co-Chair of <a href="http://sigmodconf.hosting.acm.org/2021/org_conference_officers.shtml" target="_blank">SIGMOD 2021</a></li>
+              <li>Sponsorship Co-Chair of <a href="https://2022.sigmod.org/org_conference_officers.shtml" target="_blank">SIGMOD 2022</a>, <a href="http://sigmodconf.hosting.acm.org/2021/org_conference_officers.shtml" target="_blank">2021</a></li>
                 <li>Proceedings Co-Chair of <a href="http://vldb.org/2019/?officers" target="_blank">VLDB 2019</a></li>
                 <li>Proceedings Co-Chair of <a href="https://dasfaa2019.eng.cmu.ac.th/organization-committee.html" target="_blank">DASFAA 2019</a></li>
                 <li>Local Organization Co-Chair of <a href="http://tcdb.ccf.org.cn/apwebwaim2017/organization-committee.html" target="_blank">APWeb-WAIM 2017</a></li>
@@ -40,8 +41,10 @@ Professional Services
                 <li>DASFAA: 2022, 2021, 2020 (Senior PC), 2019, 2018, 2017, 2015</li>
              </ul>
         </li><br>
+       <!-- <li><b>External Reviewer: </b><i>SIGMOD 2015</i>, <i>VLDB 2015</i>, <i>ICDE 2015</i>, <i>SIGMOD 2014</i>, <i>VLDB 2014</i>,  <i>ICDE 2014</i>, <i>ICDE 2013</i>, <i>EDBT 2013</i>, <i>ICDM 2012</i>, <i>PVLDB 2011</i>, <i>ICDM 2011</i>, <i>GIS 2011</i>.
+        </li>-->
         <li><b>Reviewer for Journals: </b>
-	    <ul>
+            <ul>
                 <li>VLDB Journal (VLDBJ)</li>
                 <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
                 <li>ACM Transactions on Knowledge Discovery from Data (TKDD)</li>
@@ -52,7 +55,5 @@ Professional Services
                 <li>Knowledge-Based Systems (KBS)</li>
                 <li>Journal of Computer Science and Technology (JCST)</li>
                 <li>Science China Information Sciences (SCIS)</li>
-	     </ul>
-        </li><br>
-		
-</ul>
+        </li>
+    </ul>
