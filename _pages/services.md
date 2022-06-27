@@ -18,11 +18,11 @@ Professional Services
         </li><br>
         <li><b>Chair:</b>
             <ul>
-              <li>Sponsorship Co-Chair of <a href="https://2022.sigmod.org/org_conference_officers.shtml" target="_blank">SIGMOD 2022</a>, <a href="http://sigmodconf.hosting.acm.org/2021/org_conference_officers.shtml" target="_blank">2021</a></li>
-              <li>Proceedings Co-Chair of <a href="http://vldb.org/2019/?officers" target="_blank">VLDB 2019</a></li>
-              <li>Proceedings Co-Chair of <a href="https://dasfaa2019.eng.cmu.ac.th/organization-committee.html" target="_blank">DASFAA 2019</a></li>
-              <li>Local Organization Co-Chair of <a href="http://tcdb.ccf.org.cn/apwebwaim2017/organization-committee.html" target="_blank">APWeb-WAIM 2017</a></li>
-              <li>Workshop Co-Chair of <a href="http://sit.jxufe.cn/waim2016/organization_committee.html" target="_blank">WAIM 2016</a></li>
+                <li>Sponsorship Co-Chair of <a href="https://2022.sigmod.org/org_conference_officers.shtml" target="_blank">SIGMOD 2022</a>, <a href="http://sigmodconf.hosting.acm.org/2021/org_conference_officers.shtml" target="_blank">2021</a></li>
+                <li>Proceedings Co-Chair of <a href="http://vldb.org/2019/?officers" target="_blank">VLDB 2019</a></li>
+                <li>Proceedings Co-Chair of <a href="https://dasfaa2019.eng.cmu.ac.th/organization-committee.html" target="_blank">DASFAA 2019</a></li>
+                <li>Local Organization Co-Chair of <a href="http://tcdb.ccf.org.cn/apwebwaim2017/organization-committee.html" target="_blank">APWeb-WAIM 2017</a></li>
+                <li>Workshop Co-Chair of <a href="http://sit.jxufe.cn/waim2016/organization_committee.html" target="_blank">WAIM 2016</a></li>
             </ul>
         </li><br>
         <li><b>Program Committee (PC) Membership: </b>
