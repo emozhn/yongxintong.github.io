@@ -52,5 +52,6 @@ author_profile: true
                 <li>Knowledge-Based Systems (KBS)</li>
                 <li>Journal of Computer Science and Technology (JCST)</li>
                 <li>Science China Information Sciences (SCIS)</li>
+            </ul>
         </li>
 </ul>
