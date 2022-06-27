@@ -5,8 +5,6 @@ permalink: /tearching_services/
 author_profile: true
 ---
 
-Teaching Experiences
-------
 <ul>
         <li><a href="https://www.icourse163.org/course/BUAA-1449777166" target="_blank">Design and Analysis of Algorithms</a> (Undergraduate Level and MOOC Course), Fall 2019/Spring 2018/Spring 2017/Spring 2016, Beihang University.</li>
         <li><a href="" target="_blank">Introduction to Data Mining</a> (Graduate Level), Spring 2018/Spring 2017/Spring 2016, Beihang University.</li>
