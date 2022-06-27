@@ -1,9 +1,7 @@
 ---
 layout: archive
-title: "Chinese Version"
+title: "正在维护中……"
 permalink: /ChineseVer/
 author_profile: true
 ---
 
-正在维护中
----
