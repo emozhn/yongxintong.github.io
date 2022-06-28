@@ -12,14 +12,14 @@ author_profile: true
                 <li>Fall Semester: 2021/2020/2019</li>
             </ul>
         </li><br>
-        <li><a href="" target="_blank">Introduction to Data Mining</a> (Graduate Level), Spring 2018/Spring 2017/Spring 2016, Beihang University.
+        <li>Introduction to Data Mining (Graduate Level), Beihang University.
             <ul>
                 <li>Spring Semester: 2018/2017/2016</li>
             </ul>
         </li><br>
-        <li><a href="" target="_blank">Introduction to Data Mining</a> (Graduate Level), Spring 2018/Spring 2017/Spring 2016, Beihang University.
+        <li>Frontiers of Big Data Processing Techniques (Graduate Level, with Prof. Shuai Ma), Beihang University.
             <ul>
-                <li>Spring Semester: 2018/2017/2016</li>
+                <li>Fall Semester: 2018/2017/2016</li>
             </ul>
         </li><br>
 
